@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta charset="utf-8" />
+    <title>PORTOFOLIO - Fahad Abdurrahman</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <!-- font awesome -->
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+    <!-- main css -->
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+    <!-- default color css  -->
+    <link rel="stylesheet" href="css/skins/color-1.css" disabled>
+    <link rel="stylesheet" href="css/style-switcher.css">
+    <!-- theme colors -->
+    <link rel="stylesheet" class="alternate-style" title="color-1" href="/css/skins/color-1.css" disabled>
+    <link rel="stylesheet" class="alternate-style" title="color-2" href="/css/skins/color-2.css" disabled>
+    <link rel="stylesheet" class="alternate-style" title="color-3" href="/css/skins/color-3.css" disabled>
+    <link rel="stylesheet" class="alternate-style" title="color-4" href="/css/skins/color-4.css">
+    <link rel="stylesheet" class="alternate-style" title="color-5" href="/css/skins/color-5.css" disabled>
+    <!-- fav icon  -->
+   <link href="https://i.ibb.co/dj9W7xW/photo-2023-01-25-00-07-44.jpg">
+<link href="https://i.ibb.co/dj9W7xW/photo-2023-01-25-00-07-44.jpg" rel="apple-touch-icon">
+  <body class="dark">
+
+    <!-- ========== Start pre loader ========== -->
+    <div class="preloader">
+      <div class="box">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <!-- ========== End pre loader ========== -->
+
+    <!-- start header  -->
+    <div class="header">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="logo">
+            <a href="home">FA</a>
+          </div>
+          <div class="hamburger-btn outer-shadow hover-in-shadow">
+            <i class="fas fa-bars"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end  -->
+
+    <!-- navigation menu start  -->
+    <nav class="nav-menu">
+      <div class="close-nav-menu outer-shadow hover-in-shadow">&times;</div>
+      <div class="nav-menu-inner">
+        <ul>
+          <li><a href="#home" class="link-item inner-shadow active">Beranda</a></li>
+          <li><a href="#about" class="link-item outer-shadow hover-in-shadow">Tentang</a></li>
+          <li><a href="#services" class="link-item outer-shadow hover-in-shadow">Model</a></li>
+          <!-- <li><a href="#testimonial" class="link-item outer-shadow hover-in-shadow">Testimonial</a></li> -->
+          <li><a href="#contact" class="link-item outer-shadow hover-in-shadow">Kontak</a></li>
+        </ul>
+      </div>
+      <p class="copyright-text">&copy; 2022 Fahad Abdurrahman</p>
+
+      <div class="fade-out-effect">
+
+      </div>
+    </nav>
+    <!-- end  -->
+
+    <!-- home section start  -->
+    <section class="home-section section active" id="home">
+      <!-- effect wrap -->
+        <div class="effect-wrap">
+          <div class="effect effect-1">
+
+          </div>
+          <div class="effect effect-2">  <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div>
+          </div>
+          <div class="effect effect-3">
+          </div>
+          <div class="effect effect-4">
+          </div>
+          <div class="effect effect-5"> 
+            <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div>
+          </div>
+        </div>
+      <!-- end -->
+      <div class="container">
+        <div class="row full-screen align-items-center">
+          <div class="home-text">
+            <p>Hallo, </p>
+            <!-- ========== Start typing animation ========== -->
+            <div id="auto-typing-animation">
+              <p> Saya <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+            </div>
+            <!-- ========== End typing animation ========== -->
+            <h1>Web Designer & Developer</h1>
+            <a href="#about" class="link-item btn-1 outer-shadow hover-in-shadow">Semua Tentang Saya</a>
+          </div>
+
+          <div class="home-image">
+            <div class="img-box inner-shadow">
+              <img src="https://i.ibb.co/dj9W7xW/photo-2023-01-25-00-07-44.jpg" class="outer-shadow" alt="profile-pic" srcset="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end -->
+
+    <!-- about section  -->
+    <section class="about-section section" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="section-title">
+            <div class="data-heading">Social Media</div>
+            <h2>Sosial Media Saya</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="about-img">
+            <div class="img-box inner-shadow">
+             
+            <!-- social icons -->
+              <div class="social-links">
+
+                <a href="https://Instagram.com/oh_pahadd/" target="_nextTab" class="outer-shadow hover-in-shadow link-card" data-tilt data-tilt-scale="1.1"><i class="fab fa-instagram"></i></a><br>
+                <span style="color:white">Instagram</span>
+                
+              </div>
+            </div>
+          <div class="about-info">
+              <br>
+            <p class="about-info-inner">
+              <!-- content will fetch from  "TODO: js/autoTypingAnimation " -->
+            </p>
+            <!-- this is a just demo text  -->
+
+            <!-- <span>Hi, this is a demo name</span>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eius officia ea ut vonsectetur adipisicing elit. Illo voluptatum iste, tempora rem obcaecati omnis delectus sunt, consequuntur, et ut quasi aperiam assumenda! <br><br> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex beatae reprehenderit vero maiores dignissimos error vitae, optio inventore explicabo quia officiis magni delectus? -->
+
+
+            <a href="#contact" class="link-item btn-1 outer-shadow hover-in-shadow">Apakah Anda Ingin Mempekerjakan Saya?</a>
+          </div>
+        </div>
+        <!-- about section start -->
+        <div class="row">
+          <div class="about-tabs">
+            <span class="tab-item outer-shadow active" data-target = ".skills">Skill Pemograman Yang Dinilai</span>
+            <span class="tab-item" data-target = ".experience">Pengalaman</span>
+            <span class="tab-item" data-target = ".education">Motivasi</span>
+          </div>
+        </div>
+        <!-- end -->
+        <!-- skill section start  -->
+        <div class="row">
+          <div class="skills tab-content active">
+            <!-- skill item -->
+            <div class="row">
+
+              <!-- ========== Start skills ========== -->
+              <div class="skill-item">
+                <p>HTML</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(85% - 14px)">
+                    <span>85%</span>
+                  </div>
+                </div>
+              </div>
+
+              
+              <div class="skill-item">
+                <p>JavaScript</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(75% - 14px);">
+                    <span>75%</span>
+                  </div>
+                </div>
+              </div>
+              
+              
+              <div class="skill-item">
+                <p>PHP</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(80% - 14px);">
+                    <span>80%</span>
+                  </div>
+                </div>
+              </div>
+              
+              
+              <div class="skill-item">
+                <p>Bootstrap</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(75% - 14px);">
+                    <span>75%</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill-item">
+                <p>Angular</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(70% - 14px);">
+                    <span>70%</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill-item">
+                <p>Python</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(80% - 14px);">
+                    <span>80%</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill-item">
+                <p>Css</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(80% - 14px);">
+                    <span>80%</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill-item">
+                <p>NodeJs</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(80% - 14px);">
+                    <span>80%</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="skill-item">
+                <p>JQuery</p>
+                <div class="progress inner-shadow">
+                  <div class="progress-bar" style="width: calc(75% - 14px);">
+                    <span>75%</span>
+                  </div>
+                </div>
+              </div>
+              <!-- ========== End skills ========== -->              
+            </div>
+            <!-- end -->
+          </div>
+        </div>
+        <!-- end  -->
+
+        <!-- experience  -->
+        <div class="row">
+          <div class="experience tab-content">
+            <div class="row">
+              <div class="timeline">
+                <div class="row">
+                  
+                  <!-- time line items  -->
+                  <div class="timeline-item">
+                    <div class="timeline-item-inner outer-shadow">
+                      <i class="fas fa-briefcase icon"></i>
+                       <span>2022 - 2023</span>
+                      <h3>Pengalaman Saya</h3>
+                       <p>Membuat Toko Online dan Portofolio</p>
+                    </div>
+                  </div>
+                  
+                  <!-- end  -->
+   
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--experience end -->
+
+        <!-- education start -->
+        <div class="row">
+          <div class="education tab-content">
+            <div class="row">
+              <div class="timeline">
+                <div class="row">
+                  <!-- time line items  -->
+                  <div class="timeline-item">
+                    <div class="timeline-item-inner outer-shadow">
+                      <i class="fas fa-graduation-cap icon"></i>
+                      <span>2022 - 2023</span>
+                      <h3>Motivasi Saya</h3>
+  
+                      <p>Teruslah Belajar Dan Jangan Pernah Menyerah.</p>
+                    </div>
+                  </div>
+                  
+                  <!-- end  -->
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- education end -->
+
+        <audio autoplay>
+    <source src="audio/Ngoni.mp3" type="audio/mpeg">
+  
+</audio>
+
+      </div>
+    </section>
+    <!-- end  -->
+
+    <!-- ========== Start service section ========== -->
+
+    <div class="service-section section" id="services">
+      <div class="container">
+        <div class="row">
+          <div class="section-title">
+            <div class="data-heading">Model</div>
+            <h2>Apa Yang Bisa Saya Lakukan?</h2>
+          </div>
+        </div>
+        <div class="row">
+          <!-- ========== Start service item ========== -->
+              <div class="service-item card" data-tilt data-tilt-scale="1.1">
+                <div class="service-item-inner outer-shadow">
+                  <div class="icon inner-shadow">
+                    <i class="fas fa-mobile-alt"></i>
+                  </div>
+                  <h3>Desain Responsif</h3>
+                  <p>Membuat Tampilan Stabil Disemua Perangkat.<br><br>Contohnya: Android, iOS, And Windows.</p>
+                </div>
+              </div>
+
+              
+              <div class="service-item card" data-tilt data-tilt-scale="1.1"> 
+                <div class="service-item-inner outer-shadow">
+                  <div class="icon inner-shadow">
+                    <i class="fas fa-laptop-code"></i>
+                  </div>
+                  <h3>Web Desain</h3>
+                  <p>Tampilan Didesain Dengan Bentuk Cantik dan Unik.</p>
+                </div>
+              </div>
+
+              
+              <div class="service-item card" data-tilt data-tilt-scale="1.1">
+                <div class="service-item-inner outer-shadow">
+                  <div class="icon inner-shadow">
+                    <i class="fas fa-palette"></i>
+                  </div>
+                  <h3>Web Grafik</h3>
+                  <p>Membuat Kualitas Grafis Menjadi Indah dan Menarik.</p>
+                </div>
+              </div>
+
+          <!-- ========== End service item ========== -->
+        </div>
+      </div>
+    </div>    
+    <!-- ========== End service section ========== -->
+
+
+    <!-- ========== Start portfolio section ========== -->
+        
+            <!-- ========== Start portfolio filter========== -->
+                <div class="row">
+                  <div class="portfolio-filter">
+                   
+                  </div>
+                </div>
+            <!-- ========== End portfolio filter========== -->
+
+            <!-- ========== Start portfolio items ========== -->
+                <div class="row portfolio-items">
+                  <!-- ========== Start portfolio item ========== -->
+                  
+                  
+          </div>
+        </section>
+    <!-- ========== End portfolio section ========== -->
+
+    <!-- ========== Start contact section ========== -->
+    <section class="contact-section section" id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="section-title">
+            <div class="data-heading">KONTAK</div>
+            <h2>Klik Untuk Menghubungi Kami</h2>
+          </div>
+        </div>
+        <div class="row">
+          <!-- ========== Start contact item ========== -->
+          
+          <div class="contact-item contact-card" data-tilt data-tilt-axis="x" data-tilt data-tilt-scale="1.1">
+            <div class="contact-item-inner outer-shadow">
+              <i class="fas fa-phone">
+                  <a href="https://wa.me/628784253876/">
+                <span class="contact-span">WhatsApp</span>
+                <p class="contact-p">+62 8784 3253 876</p>
+                </a> 
+              </i>
+            </div>
+          </div>
+         
+          <!-- ========== End contact item ========== -->
+          <!-- ========== Start contact item ========== -->
+          
+          <div class="contact-item contact-card" data-tilt data-tilt-axis="x" data-tilt data-tilt-scale="1.1">
+            <div class="contact-item-inner outer-shadow">
+              <i class="fas fa-envelope">
+                  <a href="mailto:fahadyohanesh@gmail.com">
+                <span class="contact-span">Email</span>
+                <p class="contact-p">fahadyohanesh@gmail.com</p>
+                 </a> 
+              </i>
+            </div>
+          </div>
+        
+          <!-- ========== End contact item ========== -->
+          <!-- ========== Start contact item ========== -->
+          
+          <div class="contact-item contact-card" data-tilt data-tilt-axis="x" data-tilt data-tilt-scale="1.1">
+            <div class="contact-item-inner outer-shadow">
+              <i class="fas fa-map-marker-alt">
+                  <a href="https://goo.gl/maps/US4va8YCTCD3jzpV6">
+                <span class="contact-span">Lokasi</span>
+                <p class="contact-p">Tenajar Lor, Kertasemaya, Indramayu, Jawa Barat</p>
+                </a>
+              </i>
+            </div>
+          </div>
+          
+          <!-- ========== End contact item ========== -->
+        </div>
+        <!-- ========== Start contact from ========== -->
+<br>
+
+        <div class="row">
+          <div class="contact-form">
+            <form action="https://formspree.io/f/mqkjkada" method="post">
+              <div class="container">
+        <div class="row">
+          <div class="section-title">
+            <div class="data-heading">Order Website?</div>
+            <h2>Isi Formulir Dibawah.</h2>
+          </div>
+        </div>
+      </div>
+              <div class="row">
+                <div class="w-50">
+                  <div class="input-group outer-shadow hover-in-shadow">
+                    <input class="input-control" type="text" name="Nama" id="name" placeholder="Nama Lengkap" required>
+                  </div>
+                  <div class="input-group outer-shadow hover-in-shadow">
+                    <input class="input-control" type="number" name="WhatsApp" id="sender" placeholder="Nomor WhatsApp" required>
+                  </div>
+                  <div class="input-group outer-shadow hover-in-shadow">
+                    <input class="input-control" type="text" name="Judul" id="subject" placeholder="Judul" required>
+                  </div>
+                </div>
+                <div class="w-50">
+                  <div class="input-group outer-shadow hover-in-shadow">
+                    <textarea class="input-control" name="Pesan" id="user_dtls" required placeholder="Isi Pesan"></textarea>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="submit-btn">
+                  <button type="submit" class="btn-1 outer-shadow outer-shadw hover-in-shadow submit" placeholder="Send Message">Kirim Pesan</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <!-- ========== End contact from ========== -->
+      </div>
+    </section>
+    <!-- ========== End contact section ========== -->
+
+    <!-- ========== Start portfolio popup ========== -->
+        <div class="pp portfolio-popup">
+          <div class="pp-details">
+            <div class="pp-details-inner">
+              <div class="pp-title">
+                <h2>Personal Portfolio</h2>
+                <p>Kategori - <span class="pp-project-category">Web Desainer</span></p>
+              </div>
+              <div class="pp-project-details">
+                <div class="row">
+                  <div class="description">
+                    
+                  </div>
+                  <div class="info">
+                    <h3>Project Informasi</h3>
+                    <ul>
+                      <li>Tanggal - <span>10, Okt, 2022</span></li>
+                      <li>Alat - <span>Html, Css, Js, jQuery, Boostrap.</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="separator"></div>
+
+          <div class="pp-main">
+            <div class="pp-main-inner">
+              <div class="pp-project-details-btn outer-shadow hover-in-shadow">Detail Projek<i class="fas fa-plus"></i></div>
+              <div class="pp-close outer-shadow hover-in-shadow">&times;</div>
+              <img src="img/portfolio/large/project-1/1.png" alt="img" class="pp-img outer-shadow">
+              <div class="pp-counter">1 of 6</div>
+            </div>
+            <div class="pp-loader">
+              <div class="loader"></div>
+            </div>
+            <!-- ========== Start pp navigation ========== -->
+            <div class="pp-pre"><i class="fas fa-play"></i></div>
+            <div class="pp-next"><i class="fas fa-play"></i></div>
+            <!-- ========== End pp navigation ========== -->
+          </div>
+        </div>
+    <!-- ========== End portfolio popup ========== -->
+
+    <!-- ========== Start style switciher start - for demo pirposs only ========== -->
+    <div class="style-switcher outer-shadow">
+      <div class="style-switcher-toggler s-icon outer-shadow hover-in-shadow">
+        <i class="fas fa-cog fa-spin"></i>
+      </div>
+      <div class="day-night s-icon outer-shadow hover-in-shadow">
+        <i class="fas fa-moon"></i>
+      </div>
+
+      <h4>Theme Color</h4>
+      <div class="colors"> 
+        <span class="color-1" data-tilt data-tilt-scale="1.1" onclick="setActiveStyle('color-1')"></span>
+        <span class="color-2" data-tilt data-tilt-scale="1.1" onclick="setActiveStyle('color-2')"></span>
+        <span class="color-3" data-tilt data-tilt-scale="1.1" onclick="setActiveStyle('color-3')"></span>
+        <span class="color-4" data-tilt data-tilt-scale="1.1" onclick="setActiveStyle('color-4')"></span>
+        <span class="color-5" data-tilt data-tilt-scale="1.1" onclick="setActiveStyle('color-5')"></span>
+      </div>
+    </div>
+    <!-- ========== End style switciher start - for demo pirposs only ========== -->
+    <!-- main js -->
+    <script src="js/main.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.4/typed.min.js'></script>
+    <!-- style switcher js -->
+    <script src="js/style-switcher.js"></script>
+    <script src="js/animasi.js"></script>
+    <script src="js/glassmorphism-animation.js"></script>
+    <script src="js/typing.js"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script>
+      VanillaTilt.init(document.querySelectorAll(".contact-card"), {
+        max: 25,
+        speed: 400
+      });
+
+      VanillaTilt.init(document.querySelectorAll(".link-card"), {
+        max: 25,
+        speed: 400
+      });
+
+      VanillaTilt.init(document.querySelectorAll(".card")),{
+        max: 25,
+        speed: 300
+      };
+    </script>
+  </body>
+</html>
