@@ -302,11 +302,6 @@
         </div>
         <!-- education end -->
 
-        <audio autoplay>
-    <source src="audio/Ngoni.mp3" type="audio/mpeg">
-  
-</audio>
-
       </div>
     </section>
     <!-- end  -->
@@ -318,7 +313,7 @@
         <div class="row">
           <div class="section-title">
             <div class="data-heading">Model</div>
-            <h2>Apa Yang Bisa Saya Lakukan?</h2>
+            <h2>Yang Bisa Saya Lakukan?</h2>
           </div>
         </div>
         <div class="row">
@@ -387,7 +382,7 @@
         <div class="row">
           <div class="section-title">
             <div class="data-heading">KONTAK</div>
-            <h2>Klik Untuk Menghubungi Kami</h2>
+            <h2>Untuk Menghubungi</h2>
           </div>
         </div>
         <div class="row">
