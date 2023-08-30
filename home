@@ -449,7 +449,7 @@
                     <input class="input-control" type="text" name="Nama" id="name" placeholder="Nama Lengkap" required>
                   </div>
                   <div class="input-group outer-shadow hover-in-shadow">
-                    <input class="input-control" type="text" name="WhatsApp" id="sender" placeholder="Nomor WhatsApp/Email" required>
+                    <input class="input-control" type="text" name="No/Email" id="sender" placeholder="Nomor WhatsApp/Email" required>
                   </div>
                 </div>
                 <div class="w-50">
